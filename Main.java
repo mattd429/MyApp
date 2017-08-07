@@ -24,7 +24,7 @@ public class Main {
     
     };
       
-    //run the synamic helper vaiable and new up a dynamic helper and pass in a new array for MathProcessing[]
+    //run the Dynamic helper vaiable and new up a dynamic helper and pass in a new array for MathProcessing[]
     DynamicHelper helper = new DynamicHelper(new MathProcessing [] {
           //add the implementations we have for MathPRocessing which at thsi point is just Add and Power
           new Adder(),
